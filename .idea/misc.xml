@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/drawable-v24/ic_logout.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/drawable-v24/ic_user.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/drawable-v24/round_border.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/absence_list.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_absence_history.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_account_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_add_children.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_apply_absence.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_bus_monitoring.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_bus_service_management.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_change_password.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_children_detail.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_children_info.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_edit_children.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_feedback_request.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_login.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_report_lost_card.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/activity_update_profile.xml" value="0.3625" />
+        <entry key="..\:/Users/Nicholas/AndroidStudioProjects/ParentMonitoring/app/src/main/res/layout/children_list.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

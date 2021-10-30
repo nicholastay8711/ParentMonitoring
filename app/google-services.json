@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769261386289",
+    "firebase_url": "https://ssbs-82003-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ssbs-82003",
+    "storage_bucket": "ssbs-82003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769261386289:android:eab3a86dd05c4ec19a7310",
+        "android_client_info": {
+          "package_name": "com.example.parentmonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769261386289-pqq2s5p69gcdmtthei7pmb2mn78quhus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCthzRI5cNsCF3cMa8kCsL_uUVl_LLu3Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769261386289-pqq2s5p69gcdmtthei7pmb2mn78quhus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
